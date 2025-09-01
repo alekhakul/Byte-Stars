@@ -1,0 +1,35 @@
+# Code Composer Studio
+#
+# General build artifacts
+*.obj
+*.o
+*.out
+*.hex
+*.bin
+*.map
+*.rl
+*.a
+*.lib
+*.tmp
+*.bak
+*.ual
+*.xml
+*.pdb
+*.log
+*.ini
+*.pp
+
+# Build configuration folders
+/Debug
+/Release
+/Debug/
+/Release/
+
+# CCS-generated metadata and settings
+.settings/
+.launches/
+.config/
+*.launch
+*.ccsproject
+*.ccs_version_properties
+*.user_prefs
