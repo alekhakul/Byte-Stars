@@ -57,11 +57,6 @@ Special thanks go to **Professor Jonathan Valvano**, **Professor Ramesh Yerrabal
 
 ---
 
-## How to Build
+## Video Demonstration
 
-To build and run this project:
-
-1.  Clone this repository.
-2.  Open Code Composer Studio.
-3.  Import the project (`File` > `Import` > `CCS Projects`).
-4.  Build the project and flash it to the target microcontroller.
+[YouTube](https://youtu.be/U2xOW-9RkzY?si=Llj2pXpLrT1xNVxP)
